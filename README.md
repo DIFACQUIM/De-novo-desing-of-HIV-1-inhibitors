@@ -2,7 +2,9 @@
 CONTENTS:
 
 ### Notebook
+```
 De novo design HIV-1 protease inhibitors from natural products.ipynb
+```
 
 ### Files
 ```
